@@ -93,7 +93,11 @@ Centroid 3 |     1     |     2
  ```
  if you have any problem, please refer to [site](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
  
- 
+ if you use Macos terminal
+ ```bash
+  $ conda install module_name
+  ```
+  if you have any problem, please refer to [site](https://harlequink.tistory.com/48)
  
 
 ---
