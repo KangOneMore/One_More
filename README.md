@@ -63,6 +63,7 @@ Centroid 3 |     1     |     2
  open problem2.py file  
  Files Required to Run seconde problem .py file
    - Vertiport_candidates.csv
+   - South_Korea_territory.csv
    - korea.json
    - candidates.html
    - k = 10.html
@@ -83,21 +84,18 @@ Centroid 3 |     1     |     2
 
  Install missing dependencies using [pip](https://pip.pypa.io/en/stable/) and other [sites](https://datatofish.com/install-package-python-using-pip/)
 
- if you use jupyter notebook
- ```bash
- $ conda install module_name
- ``` 
- or in jupyter notebook
- ```python
- pip install module_name
- ```
- if you have any problem, please refer to [site](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+ - When you download modules in terminal
+   ```bash
+   $ conda install module_name
+   ``` 
+   if you have any problem, please refer to [site](https://harlequink.tistory.com/48)
  
- if you use Macos terminal
- ```bash
-  $ conda install module_name
-  ```
-  if you have any problem, please refer to [site](https://harlequink.tistory.com/48)
+ 
+ - or When you download modules in jupyter notebook
+   ```python
+   pip install module_name
+   ```
+ if you have any problem, please refer to [site](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
  
 
 ---
