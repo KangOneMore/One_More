@@ -32,14 +32,16 @@ Solve the problems Using k-means algorithm
  If you don’t download Jupyter notebook, please install jupyter notebook from [site](https://docs.jupyter.org/en/latest/install.html)
 
  ### py file
- 원모학우님이 적어주세요
+
 
 ## Dependencies
  - Numpy
  - Math
  - matplotlib.pyplot
  - pandas
- - 원모학우님이 추가
+ - folium
+ - json
+ - random
 
  Install missing dependencies using [pip](https://pip.pypa.io/en/stable/) and other [sites](https://datatofish.com/install-package-python-using-pip/)
 
