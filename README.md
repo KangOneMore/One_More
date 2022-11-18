@@ -86,7 +86,7 @@ for i in range(len(korea)):
  - matplotlib.pyplot
  - pandas
  - folium
- - jason
+ - json
 
  Install missing dependencies using [pip](https://pip.pypa.io/en/stable/) and other [sites](https://datatofish.com/install-package-python-using-pip/)
 
