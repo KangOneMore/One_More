@@ -65,10 +65,16 @@ Centroid 3 |     1     |     2
    - Vertiport_candidates.csv
    - South_Korea_territory.csv
    - korea.json
-   - candidates.html
-   - k = 10.html
-   - k = 13.html
+   - In order to execute the code, the South_Korea_territory.csv file had to be replaced with the json file. I changed the South_Korea_territory.csv file to json file using the following code.
 
+   ```python
+   # change csv to json
+   f = open('output.txt', 'w')
+for i in range(len(korea)):
+    abc = korea.loc[i]
+    ff.write('[' + str(abc['Longitude (deg)']) + ', ' + str(abc['Latitude (deg)']) + '], ')
+   ```
+    
    - If you don't download python idel, please install python idel from [site](https://www.python.org/downloads/)
    
 
