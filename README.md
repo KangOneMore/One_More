@@ -115,7 +115,7 @@ for i in range(len(korea)):
   * 22001003 Won Mo Kang
   * 22001034 Sang Been Woo
 ## Reference
-Change csv to jason
+Change csv to json
 [site](https://ko.wikipedia.org/wiki/GeoJSON#cite_note-11)
 [site](https://stackoverflow.com/questions/48586647/python-script-to-convert-csv-to-geojson)
 [site](https://teddylee777.github.io/visualization/folium)
